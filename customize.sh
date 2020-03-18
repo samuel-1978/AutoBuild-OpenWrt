@@ -1,8 +1,8 @@
 #!/bin/bash
 #=================================================
 # Description: Samuel OpenWRT
-# Lisence: HUHU
-# Author: sAmueL/eSir PlayGroud
+# Lisence: MIT
+# Author: eSir PlayGroud
 # Youtube Channel: NotYET 
 #=================================================
 #1. Modify default IP
